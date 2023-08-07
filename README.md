@@ -4,4 +4,4 @@ A customisable Flask Web App for monitoring and alerting on web-based asset acti
 
 **Status**: work in-progress.
 
-Created by [Kris Bolton](https://twitter.com/krisbolton).
+Created by [Kris Bolton]([https://twitter.com/krisbolton](https://github.com/krisbolton)https://github.com/krisbolton).
